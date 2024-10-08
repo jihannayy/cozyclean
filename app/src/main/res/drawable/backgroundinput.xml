@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#E19BEFF9"/> <!-- Warna latar belakang -->
+    <corners android:radius="16dp"/> <!-- Radius untuk membuat ujung tumpul -->
+    <padding
+        android:left="10dp"
+        android:right="10dp" />
+    <stroke
+        android:width="2dp"
+        android:color="#E19BEFF9" /> <!-- Opsi untuk menambahkan garis tepi -->
+</shape>
